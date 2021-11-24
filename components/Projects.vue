@@ -1,11 +1,11 @@
 <template>
   <div>
-    <ul class="grid grid-cols-3 gap-8 mt-8">
+    <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-8">
       <li
         v-for="(item, index) in data"
         :key="index"
         class="bg-warmGray-900 py-6 px-8 rounded-lg"
-        :class="item.span === true && 'col-span-2'"
+        :class="item.span === true && 'md:col-span-2'"
       >
         <h4 class="text-2xl font-black text-warmGray-100 tracking-wide">
           {{ item.name }}
@@ -18,7 +18,7 @@
           {{ item.description }}
         </p>
 
-        <div class="mt-4 text-sm">
+        <div class="mt-3 text-sm">
           <a
             v-if="item.site != null"
             :href="item.site"
@@ -33,7 +33,7 @@
               px-6
               rounded-lg
               text-white
-              mr-2
+              m-1
             "
           >
             <svg
@@ -65,6 +65,7 @@
               px-6
               rounded-lg
               text-white
+              m-1
             "
           >
             <svg
