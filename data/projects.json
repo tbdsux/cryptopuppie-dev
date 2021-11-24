@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Website",
+    "description": "Our primary / main project website.",
+    "source": "https://github.com/TheBoringDude/new-cryptopups",
+    "site": "https://www.worldofcryptopups.cf/",
+    "span": true
+  },
+  {
+    "name": "Cordy",
+    "info": "bot",
+    "description": "Community management discord bot.",
+    "source": "https://github.com/World-of-Cryptopups/cordy"
+  },
+  {
+    "name": "Events",
+    "description": "Project events tracker for drops and others.",
+    "source": "https://github.com/TheBoringDude/cryptopups-events/",
+    "site": "https://events.worldofcryptopups.cf/"
+  }
+]
