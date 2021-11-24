@@ -10,7 +10,7 @@ module.exports = {
       ...colors,
     },
     fontFamily: {
-      sans: ["Outfit", ...defaultTheme.fontFamily.sans],
+      sans: ["Montserrat", ...defaultTheme.fontFamily.sans],
     },
     extend: {},
   },
