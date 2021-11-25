@@ -5,5 +5,5 @@
 </template>
 
 <script setup>
-import data from "@/data/projects.json";
+import data from "@/data/libraries.json";
 </script>

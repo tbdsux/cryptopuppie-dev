@@ -1,0 +1,38 @@
+[
+  {
+    "name": "next-waxauth",
+    "description": "Next.js authenticator for wax.",
+    "source": "https://github.com/World-of-Cryptopups/next-waxauth"
+  },
+  {
+    "name": "solid-waxauth",
+    "description": "Wax authenticator for Solid.js framework",
+    "source": "https://github.com/World-of-Cryptopups/solid-waxauth"
+  },
+  {
+    "name": "desf.js",
+    "description": "Express-like DiscordJS framework.",
+    "source": "https://github.com/World-of-Cryptopups/desf.js"
+  },
+  {
+    "name": "eosrpc.go",
+    "description": "Simple api wrapper for EOS RPC Api",
+    "source": "https://github.com/World-of-Cryptopups/eosrpc.go"
+  },
+  {
+    "name": "atomicassets-go",
+    "description": "API Wrapper for the AtomicHub API (wip)",
+    "info": "wip",
+    "source": "https://github.com/World-of-Cryptopups/atomicassets-go"
+  },
+  {
+    "name": "nimgecko",
+    "description": "A simple api wrapper for CoinGecko API",
+    "source": "https://github.com/World-of-Cryptopups/nimgecko"
+  },
+  {
+    "name": "pycoinmarketcap",
+    "description": "Wrapper for the CoinMarketCap API",
+    "source": "https://github.com/World-of-Cryptopups/pycoinmarketcap"
+  }
+]

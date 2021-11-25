@@ -7,9 +7,18 @@
     </Html>
 
     <div>
-      <h2 class="text-4xl font-black text-warmGray-100">Our Projects</h2>
+      <div>
+        <h2 class="text-4xl font-black text-warmGray-100">Our Projects</h2>
 
-      <Projects />
+        <Projects />
+      </div>
+
+      <hr class="my-14 border-warmGray-700" />
+
+      <div class="">
+        <h2 class="text-4xl font-black text-warmGray-100">Libraries</h2>
+        <Libraries />
+      </div>
     </div>
   </div>
 </template>
