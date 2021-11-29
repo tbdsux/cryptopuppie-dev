@@ -17,5 +17,11 @@
     "description": "Project events tracker for drops and others.",
     "source": "https://github.com/TheBoringDude/cryptopups-events/",
     "site": "https://events.worldofcryptopups.cf/"
+  },
+  {
+    "name": "Packs",
+    "description": "Our own website for unpacking NFT packs.",
+    "source": "https://github.com/TheBoringDude/cryptopuppie-packs",
+    "site": "https://packs.worldofcryptopups.cf/"
   }
 ]
