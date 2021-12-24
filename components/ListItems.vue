@@ -3,15 +3,15 @@
     <li
       v-for="(item, index) in data"
       :key="index"
-      class="bg-warmGray-900 py-6 px-8 rounded-lg"
+      class="bg-stone-900 py-6 px-8 rounded-lg"
       :class="item.span === true && 'md:col-span-2'"
     >
-      <h4 class="text-2xl font-black text-warmGray-100 tracking-wide">
+      <h4 class="text-2xl font-black text-stone-100 tracking-wide">
         {{ item.name }}
         <small class="ml-2 text-base" v-if="item.info">({{ item.info }})</small>
       </h4>
 
-      <p class="text-warmGray-400 mt-2 text-lg">
+      <p class="text-stone-400 mt-2 text-lg">
         {{ item.description }}
       </p>
 
@@ -24,8 +24,8 @@
           class="
             inline-flex
             items-center
-            bg-warmGray-800
-            hover:bg-warmGray-700
+            bg-stone-800
+            hover:bg-stone-700
             py-2
             px-6
             rounded-lg
@@ -56,8 +56,8 @@
           class="
             inline-flex
             items-center
-            bg-warmGray-800
-            hover:bg-warmGray-700
+            bg-stone-800
+            hover:bg-stone-700
             py-2
             px-6
             rounded-lg

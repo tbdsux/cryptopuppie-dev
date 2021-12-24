@@ -8,15 +8,15 @@
 
     <div>
       <div>
-        <h2 class="text-4xl font-black text-warmGray-100">Our Projects</h2>
+        <h2 class="text-4xl font-black text-stone-100">Our Projects</h2>
 
         <Projects />
       </div>
 
-      <hr class="my-14 border-warmGray-700" />
+      <hr class="my-14 border-stone-700" />
 
       <div class="">
-        <h2 class="text-4xl font-black text-warmGray-100">Libraries</h2>
+        <h2 class="text-4xl font-black text-stone-100">Libraries</h2>
         <Libraries />
       </div>
     </div>

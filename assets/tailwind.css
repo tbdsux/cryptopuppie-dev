@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-warmGray-800;
+  @apply bg-stone-800;
 }
